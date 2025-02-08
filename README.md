@@ -1,1 +1,2 @@
-# Website-FoodExplore
+# Food Explore
+Food Explore is a website designed to make it easier for Telkom University dormitory students to find food that provides delivery services. Developed using Laravel as the backend to ensure efficient data management, and Bootstrap on the frontend to keep the interface responsive and user-friendly, Food Explore provides an intuitive experience for users. The website has a simple interface, allowing students to quickly explore menus from various stalls.
