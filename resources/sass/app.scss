@@ -1,0 +1,26 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+$custom-colors:(
+    "merahtua" : #7B0A0A,
+    "footermerah" : #6f0707
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+// footer {
+//     background-color: #7B0A0A; /* Ganti dengan warna footer pilihan Anda */
+//     color: #ffffff; /* Warna teks footer */
+//     text-align: center;
+//     padding: 10px;
+// }
+
+.custom-link {
+    color: #ffffff !important; /* Warna teks link navbar */
+}
+
+.custom-link:hover {
+    color: #ffc107 !important; /* Warna saat link di-hover */
+}
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
