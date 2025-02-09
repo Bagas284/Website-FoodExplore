@@ -19,4 +19,4 @@
     - **Activity Monitoring**: Admins can monitor user and stall activity, such as adding stalls, changing menus, and viewing ratings and reviews.
 </details>
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,figma,mysql)](https://skillicons.dev)
